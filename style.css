@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(pink, purple,grey);
+  background-repeat: no-repeat;
+  height: 85vh;
+  color: white;
+}
+
+.main{
+    margin: 0 auto;
+    height: 70vh;
+    width: 700px;
+}
+h1{
+  margin-top: 100px;
+  color: white;
+  font-size: 70px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 4em;
+  width: 150px;
+}
+button{
+  margin-top: 15px;
+  font-size: 1.2em;
+  margin-left: 15px;
+  border-radius: 12px ;
+  width: 20%;
+  height: 40px;
+  color: black;
+}
+#start{
+  background-color: green;
+}
+#stop{
+  background-color: red;
+}
+#reset{
+  background-color: yellow;
+}
+
